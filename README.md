@@ -17,6 +17,12 @@ Gerçekleştirilen çalışmada performans değerlendirilirken confusion (karş�
 
 
 
-# SONUÇLAR: 
+# SONUÇLAR
   
 Sınıflandırma yöntemlerinden Naive Bayes, Decision Tree, Random Forest, Support Vector Machines, Logistic Regression, Gradient Descent, K-Nearest Neighbor yöntemleri kullanılarak sınıflandırma başarı oranları kıyaslanmıştır. Yapılan kıyaslamalar neticesinde en yüksek başarı oranı Random Forest algoritması ile %99.9882 başarım oranı elde edilmiştir. Ayrıca seçmiş olduğumuz veri setinin önişlemeden geçirildikten sonra düzenli dağılım gösteren veri seti olduğu görülmüştür. Ayrıca birçok uygulamada çok başarılı bir sınıflandırma yöntemi olan Naive Bayes bu çalışmada çok düşük başarım göstermiştir. Bu durum, uygulama alanına göre algoritma seçiminin ne denli önemli olduğunu göstermiştir. K-Nearest Neighbor yönteminin doğruluk, duyarlılık, kesinlik ve F1 Score değerleri ne kadar yüksek olsa da çalışma süresinin fazla olması bir dezavantaj olmuştur. Klasik makine öğrenmesi yöntemleri çokça irdelenip araştırma alanı bulmuştur. Günümüzde derin öğrenme yöntemleri gibi popüler yöntemler de mevcuttur. Derin öğrenme yöntemlerinin klasik makine öğrenmesi yöntemlerine göre çok daha fazla donanıma bağlılık dezavantajları bulunmaktadır. Ayrıca saldırı tespit sistemlerinde derin öğrenme yöntemleri ile yakalanan başarı oranları klasik makine öğrenmesi yöntemleri kadar başarılı olamamıştır.
+
+
+
+# Veri Seti İndirme Adresi 
+
+https://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
